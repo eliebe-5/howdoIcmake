@@ -1,0 +1,5 @@
+class Gfx
+{
+private:
+public:
+};
